@@ -1,2 +1,2 @@
 # dog
-This is sweet website of dogs
+This is sweet website of frogs
